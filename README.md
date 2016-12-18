@@ -2,7 +2,7 @@
 LCC- Libre Computer Club is a nonprofit club founded in Bergen, Norway with a mission to explore technology perspectives and promote computer user freedom. We like distributed, decentralized technologies, blockchain, freedom of information, free software, user's privacy, free knowledge.
 Goal is to have fun and inspire people to experiment and to build their utopia. This could be new tech hub for innovation and collaboration with other technologists and free thinkers.
 
-## We stand for the values of Free Software Foundation (FSF)
+### We stand for the values of Free Software Foundation (FSF)
 The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.
 
 Source FSF: As our society grows more dependent on computers, the software we run is of critical importance to securing the future of a free society. Free software is about having control over the technology we use in our homes, schools and businesses, where computers work for our individual and communal benefit, not for proprietary software companies or governments who might seek to restrict and monitor us. The Free Software Foundation exclusively uses free software to perform its work.
